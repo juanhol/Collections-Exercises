@@ -1,0 +1,13 @@
+Estás construyendo una app de lista de tareas.
+Cada tarea tiene una descripción textual
+y se guarda en el orden en que fue ingresada.
+Se permite tener tareas repetidas
+Implementá un programa que permita
+
+Agregar una nueva tarea
+
+Mostrar todas las tareas
+
+Marcar una tarea como completada (eliminarla)
+
+Modificar la descripción de una tarea
