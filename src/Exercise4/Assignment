@@ -1,0 +1,17 @@
+Ejercicio 4 – Catálogo ordenado
+Tenés una tienda online y necesitás
+mostrar un catálogo de productos. Cada
+ producto tiene un nombre y un precio.
+Querés que se ordene automáticamente por
+ nombre.
+Creá un programa que permita:
+
+Agregar productos con su precio
+
+Consultar el precio de un producto
+
+Actualizar el precio de un producto
+
+Eliminar un producto
+
+Listar todo el catálogo en orden alfabético

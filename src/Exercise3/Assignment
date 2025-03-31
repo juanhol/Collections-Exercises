@@ -1,0 +1,15 @@
+
+Ejercicio 3 – Inscripciones únicas
+Querés llevar el control de inscripciones
+a una charla técnica. No se pueden repetir
+nombres.
+El orden no es relevante.
+Escribí un programa que permita:
+
+Agregar un nombre a la lista de inscriptos
+
+Verificar si alguien ya está inscripto
+
+Eliminar una inscripción
+
+Mostrar la lista completa de inscriptos
